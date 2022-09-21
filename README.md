@@ -12,7 +12,7 @@ to-do-list is a simple application that allows users to add and remove items to 
 
 * HTML
 * CSS
-*jQuery
+* jQuery
 
 ## Authors
 
